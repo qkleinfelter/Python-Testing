@@ -21,3 +21,5 @@ def guess():
         print("You ran out of guesses!")
 
 guess()
+print("Press enter to close.")
+input()
